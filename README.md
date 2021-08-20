@@ -1,2 +1,3 @@
 # SoftUni-Courses
-My programms made by the time I was in SoftUni
+
+This repo is holding: my programms made by the time I was in SoftUni.
